@@ -1,4 +1,3 @@
-# GIT
 <h3>CONFIGURAÇÕES</h3>
 
 * Configura o nome do usuário
