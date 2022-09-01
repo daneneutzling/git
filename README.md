@@ -38,7 +38,8 @@
 
       git commit --amend 
       
-* Lista as conexões remotas que se tem com outros repositórios   OBS.: nome padrão é origin  
+* Lista as conexões remotas que se tem com outros repositórios   
+  OBS.: nome padrão é origin  
 
       git remote  
 
