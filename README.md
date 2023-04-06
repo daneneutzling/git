@@ -10,7 +10,7 @@
   
 * Ativação de cores nas respostas 
   
-      git config –global color.ui true 
+      git config -–global color.ui true 
 
 <h3>COMANDOS</h3>
 
