@@ -1,3 +1,6 @@
+<img width="3563" alt="git_github" src="https://github.com/daneneutzling/git/assets/91130447/1ba68db6-1097-41d7-a516-ba2fc004f635">
+
+<!--
 <h3>CONFIGURAÇÕES</h3>
 
 * Configura o nome do usuário
@@ -157,3 +160,4 @@
 * Exclui arquivos não monitorados (que não foram preparados para commit) 
 
       git clean 
+-->
