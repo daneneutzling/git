@@ -1,4 +1,4 @@
-<img width="3563" alt="git_github" src="https://github.com/daneneutzling/git/assets/91130447/1ba68db6-1097-41d7-a516-ba2fc004f635">
+<img width="7089" alt="Untitled" src="https://github.com/daneneutzling/git/assets/91130447/93f82a61-01c8-4c2f-b458-3e2dfbb706fc">
 
 <!--
 <h3>CONFIGURAÇÕES</h3>
